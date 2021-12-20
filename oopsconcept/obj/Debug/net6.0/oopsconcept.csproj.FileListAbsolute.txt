@@ -1,0 +1,15 @@
+D:\oops\oopsconcept\bin\Debug\net6.0\oopsconcept.exe
+D:\oops\oopsconcept\bin\Debug\net6.0\oopsconcept.deps.json
+D:\oops\oopsconcept\bin\Debug\net6.0\oopsconcept.runtimeconfig.json
+D:\oops\oopsconcept\bin\Debug\net6.0\oopsconcept.dll
+D:\oops\oopsconcept\bin\Debug\net6.0\ref\oopsconcept.dll
+D:\oops\oopsconcept\bin\Debug\net6.0\oopsconcept.pdb
+D:\oops\oopsconcept\obj\Debug\net6.0\oopsconcept.csproj.AssemblyReference.cache
+D:\oops\oopsconcept\obj\Debug\net6.0\oopsconcept.GeneratedMSBuildEditorConfig.editorconfig
+D:\oops\oopsconcept\obj\Debug\net6.0\oopsconcept.AssemblyInfoInputs.cache
+D:\oops\oopsconcept\obj\Debug\net6.0\oopsconcept.AssemblyInfo.cs
+D:\oops\oopsconcept\obj\Debug\net6.0\oopsconcept.csproj.CoreCompileInputs.cache
+D:\oops\oopsconcept\obj\Debug\net6.0\oopsconcept.dll
+D:\oops\oopsconcept\obj\Debug\net6.0\ref\oopsconcept.dll
+D:\oops\oopsconcept\obj\Debug\net6.0\oopsconcept.pdb
+D:\oops\oopsconcept\obj\Debug\net6.0\oopsconcept.genruntimeconfig.cache
